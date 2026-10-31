@@ -1,1 +1,4 @@
-I want to create an app in which user will upload a resume and the app will tell the ATS score and the improvements in the resume. I will use Streamlit for UI. I will use Gemini Flash model for AI models. Give me three files app.py, README.md and requirements.txt and make sure to review and test it before you give me code. Also tell me how to push on GitHub and deploy it on Streamlit.
+streamlit>=1.40.0
+google-genai>=1.0.0
+pypdf>=4.0.0
+python-docx>=1.1.0
